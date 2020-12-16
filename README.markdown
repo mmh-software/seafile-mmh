@@ -1,6 +1,8 @@
 ## Introduction [![Build Status](https://secure.travis-ci.org/haiwen/seafile.svg?branch=master)](http://travis-ci.org/haiwen/seafile)
 
 Seafile is an open source cloud storage system with privacy protection and teamwork features. Collections of files are called libraries. Each library can be synced separately. A library can also be encrypted with a user chosen password. Seafile also allows users to create groups and easily sharing files into groups.
+This is a Fork from which sets the file properties read only on a Windows client.
+Original Seafile: http://travis-ci.org/haiwen/seafile
 
 
 ## Feature Summary
